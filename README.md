@@ -7,7 +7,7 @@
 [View My Project Live 🚀]( https://monica-dev14.github.io/my-first-webpage/)
 
 
-#⚡ Quick Features
+##⚡ Quick Features
 .3D Depth: Optimized for dark backgrounds so cards "float."
 
 .Live Engine: Real-time feedback for blur, opacity, and tint.
